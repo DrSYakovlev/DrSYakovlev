@@ -15,7 +15,7 @@ My toolset includes:
 
 **Data Analysis**: SQL, PostgreSQL, and data wrangling with Pandas and dplyr
 
-**Visualization: Matplotlib**, Plotly, ggplot2, Seaborn
+**Visualization**: Matplotlib, Plotly, ggplot2, Seaborn
 
 **Machine Learning**: Regression, Classification, Clustering, Dimensionality Reduction, Ensemble Methods, Hyperparameter Tuning
 
